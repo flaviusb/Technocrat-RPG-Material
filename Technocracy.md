@@ -6,6 +6,7 @@ The Technocracy
 1920s: The Cosmic Masters go into Occultation
 
 1999: The Age of Darkness ends. The Age of Apathy begins.
+
 2002: The Storm of Souls cuts off access to the Deep Universe.
 
 ###Factions
@@ -13,14 +14,20 @@ The Technocracy
 Scientists
 
 Researchers:
+
 IT: Computer Science
+
 Security: 
+
 
 Engineers
 
 Researchers:
+
 IT: 
+
 Security: Marines
+
 
 Administrators/Managers
 
@@ -29,12 +36,16 @@ Researchers:
 Accountants/Mobsters
 
 Researchers:
+
 Security: Spooks
+
 
 Explorers
 
 Researchers:
+
 Security: 
+
 IT:
 
 ---
@@ -42,6 +53,7 @@ IT:
 ###Willpower
 
 Willpower is a derived stat. It is your Resolve + Composure. You have both temporary and permanent dots of willpower.
+
 When you have zero temporary willpower, you reach a state called Ego Depletion. While you are afflicted with Ego Deplection, you are easier to hypnotise, brainwash, and flimflam.
 
 
@@ -59,16 +71,22 @@ Foci differ in 'intended scale'. There are six known 'intended scales':
 Foci can be used to create effects in other scales. You take a dice penalty of 8^x, where x is the number of scales you want to move. So, using auto-hypnosis (a Personal Scale Focus) on a Cosmic Scale would levy an 8^5 = 32768 dice penalty to your draw pool.
 
 Autohypnosis
+
 Luck
+
 Hypnosis
+
 Cognitive Behavioural Science
+
 Pharmacology
+
 Mechatronics
 
 
 ###Conjunctional Effects
 
 Conjunctional effects must make use of the Foci of all the component Spheres. Use the dice bonus for the lowest dice bonus Focus.
+
 Using Time - Mechatronics, Life - Pharmacology, a hung healing effect with medical autoinjectors.
 
 
@@ -83,16 +101,27 @@ Paradox pool: (Enlightenment ÷ 2 rounding up) + (2 × (number of psychic foci -
 ###Merits
 
 Lucky 7pts
+
 True Faith 7pts
+
 Strong Daemon
+
 Iron Will 4pts
+
 Unbondable 20pts
+
 Occult Dabbling 2pts
+
 True Love
+
 Soul Mate
+
 Psionic Power 0/3/7pts (For -2, 0, +3 Focus)
+
 Eidactic Memory 4pts
+
 Photographic Memory 4pts
+
 Perfect Pitch 2pts
 
 ###Enhancements
@@ -113,36 +142,62 @@ Perfect Pitch 2pts
 ###Backgrounds
 
 Past Lives
+
 Daemon
+
 Dream
+
 Edge
+
 Blessing
+
 Destiny
+
 Occultation
+
 Cloaking
 
+
+
 Resources
+
 Luxury
+
 Status
+
 Fame
+
 Staff
+
 Allies
+
 Contacts
+
 Requisition
+
 Company Access
+
 Arsenal
 
 ###Standard Techniques
 
 Boxing
+
 CQC
+
 Krav Maga
+
 Jiu Jutsu
+
 Katanas
 
+
 Equilibrium - Guns
+
 Equilibrium - Swords
+
 Equilibrium - Hand to Hand
+
 
 Bartatsu
 

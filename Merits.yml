@@ -1,0 +1,75 @@
+---
+-
+  name: Lucky
+  cost: 7
+  text: |
+    You are unusually lucky.
+    This mainly has fluff effect. It may counter effects based on ill luck.
+  foci:
+    - personal
+    - skirmish
+-
+  name: "True Faith"
+  cost: 7
+  text: |
+    You have True Faith in a higher power.
+    This is rare in this dark world.
+    For whatever reason, this merit only applies to faith in a single creator deity, in monotheistic or henotheistic form.
+-
+  name: Strong Daemon
+  cost: 2
+  text: |
+    Your Daemon is unusually strong. It often manifests in your dreams to give you guidance.
+-
+  name: Iron Will
+  cost: 4
+  text: |
+    You can spend a temporary willpower point to retest to try and break out of mind control, compulsion, or other mental effects, or to shake off physiological debuffs such as being knocked out or tortured.
+-
+  name: Unbondable
+  cost: 20
+  text: |
+    Though your body may be broken, your spirit is unbowed. You could safely wear the one ring while drinking a cup of vampire blood.
+-
+  name: Occult Dabbling
+  cost: 2
+  text: |
+    Before you joined the Technocracy and learned Enlightened Science, you learned some superstitious approaches to reality.
+    You can recognise the superstitions of some non-scientific willworkers. 
+-
+  name: "True Love"
+  cost: 7
+  text: |
+    You have a True Love. This is a rare and precious thing. Treasure it.
+-
+  name: Soul Mate
+  cost: 7
+  text: |
+    You are a part of something bigger than yourself. Your Soul Mate does not count as an extra target when you use effects.
+    You and your Soul Mate can use Personal Effects on each other.
+-
+  name: Psionic Power
+  cost: [0, 3, 7]
+  text: |
+    You have a Psionic Power. This is looked upon with suspicion in the Technocratic Union.
+  foci:
+    - personal
+    - skirmish
+    - ship
+-
+  name: Eidactic Memory
+  cost: 4
+  text: |
+    You have an eidactic memory. This means that you can remember anything you have spent the time to read. You can remember timelines.
+-
+  name: Photographic Memory
+  cost: 4
+  text: |
+    You have a photographic memory. You can call to mind an accurate image of anything you have seen.
+-
+  name: Perfect Pitch
+  cost: 2
+  text: |
+    You have perfect pitch. You can tell what any note you can hear is, and you can tell the score of any music you hear. You can sing any note perfectly.
+  
+---
