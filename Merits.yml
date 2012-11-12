@@ -61,7 +61,8 @@
   name: Eidactic Memory
   cost: 4
   text: |
-    You have an eidactic memory. This means that you can remember anything you have spent the time to read. You can remember timelines.
+    You have an eidactic memory. This means that you can remember anything you have spent the time to read, and the timelines of anything you have witnessed. This does not help you to remember
+    images, sounds, smells, textures or other direct sensory impressions, or anything to do with procedural memory or proprioception; it only works on conscious, processed information.
 -
   name: Photographic Memory
   cost: 4
@@ -69,9 +70,10 @@
     You have a photographic memory. You can call to mind an accurate image of anything you have seen.
 -
   name: Perfect Pitch
-  cost: 2
+  cost: 1
   text: |
     You have perfect pitch. You can tell what any note you can hear is, and you can tell the score of any music you hear. You can sing any note perfectly.
+    If you also have an eidactic memory, you can remember any sound you deliberately memorise perfectly.
 -
   name: Cross Training
   cost: [3, 5]
