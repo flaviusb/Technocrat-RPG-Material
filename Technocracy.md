@@ -100,29 +100,7 @@ Paradox pool: (Enlightenment ÷ 2 rounding up) + (2 × (number of psychic foci -
 
 ###Merits
 
-Lucky 7pts
 
-True Faith 7pts
-
-Strong Daemon
-
-Iron Will 4pts
-
-Unbondable 20pts
-
-Occult Dabbling 2pts
-
-True Love
-
-Soul Mate
-
-Psionic Power 0/3/7pts (For -2, 0, +3 Focus)
-
-Eidactic Memory 4pts
-
-Photographic Memory 4pts
-
-Perfect Pitch 2pts
 
 ###Enhancements
 
