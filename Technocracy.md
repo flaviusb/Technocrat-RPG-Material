@@ -3,7 +3,7 @@ The Technocracy
 
 ###Timeline
 
-1920s: The Cosmic Masters go into Occultation
+1920s: The Cosmic Masters go into Occultation.
 
 1999: The Age of Darkness ends. The Age of Apathy begins.
 
@@ -24,20 +24,30 @@ Engineers
 
 Researchers:
 
-IT: 
+IT: DevOps
 
 Security: Marines
 
 
-Administrators/Managers
+Administrators/Managers/Government
 
 Researchers:
+
+IT:
+
+Security: Spooks/The MiB
+
+
+
 
 Accountants/Mobsters
 
 Researchers:
 
-Security: Spooks
+IT: 
+
+Security:
+
 
 
 Explorers
@@ -49,6 +59,18 @@ Security:
 IT:
 
 ---
+
+###Stats
+
+You have 9 stats, divided into a three by three grid.
+
+           | Mental       | Social       | Physical  |
+-----------|--------------|--------------|-----------|
+Power      | Intelligence | Charisma     | Strength  |
+Finesse    | Wits         | Manipulation | Dexterity |
+Resistance | Resolve      | Composure    | Stamina   |
+
+The normal human range is from one to five in each of these stats, with two being 'low average' and three being 'high average'.
 
 ###Willpower
 
