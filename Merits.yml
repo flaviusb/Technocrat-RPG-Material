@@ -24,7 +24,7 @@
   name: Iron Will
   cost: 4
   text: |
-    You can spend a temporary willpower point to retest to try and break out of mind control, compulsion, or other mental effects, or to shake off physiological debuffs such as being knocked out or tortured.
+    You can spend a temporary willpower point to retest to try and break out of mind control, compulsion, or other mental effects, or to shake off the negative physiological effects of being knocked out or tortured.
 -
   name: Unbondable
   cost: 20
@@ -35,7 +35,7 @@
   cost: 2
   text: |
     Before you joined the Technocracy and learned Enlightened Science, you learned some superstitious approaches to reality.
-    You can recognise the superstitions of some non-scientific willworkers. 
+    You can recognise the superstitions of some non-scientific willworkers, and can talk in superstitious terms about reality. 
 -
   name: "True Love"
   cost: 7
@@ -52,6 +52,7 @@
   cost: [0, 3, 7]
   text: |
     You have a Psionic Power. This is looked upon with suspicion in the Technocratic Union.
+    As a Focus, the 0pt version is -2 dice, the 3pt version is 0 dice, and the 7pt version is +2 dice.
   foci:
     - personal
     - skirmish
