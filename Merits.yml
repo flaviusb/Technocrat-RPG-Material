@@ -72,5 +72,20 @@
   cost: 2
   text: |
     You have perfect pitch. You can tell what any note you can hear is, and you can tell the score of any music you hear. You can sing any note perfectly.
-  
+-
+  name: Cross Training
+  cost: [3, 5]
+  text: |
+    You have access to an additional Focus for a single Sphere. This Focus must come from one of the other specialisations within your group. It represents extra training you have received.
+    For the 3pt version of this merit, your training is official and on file. For the 5pt version of this merit, your training is secret and not on file. You can buy this merit multiple times.
+-
+  name: Multi Disciplinary
+  cost: [7, 14, 21]
+  text: |
+    You have the full training of an additional group. So, you have an additional Focus for each Sphere, and access to the backgrounds and subskills and effects and so on of both groups.
+    For the 7pt version, you gain all of the paradigm flaws of your second group.
+    For the 14pt version, you do not gain any additional paradigm flaws from the training.
+    For the 21pt version, you do not gain any additional paradigm flaws from the training, and in addition the training allows you to remove any paradigm flaws that are not shared between your groups.
+    You can buy this multiple times to gain training in more groups.
+
 ---
