@@ -76,7 +76,7 @@ The normal human range is from one to five in each of these stats, with two bein
 
 Willpower is a derived stat. It is your Resolve + Composure. You have both temporary and permanent dots of willpower.
 
-When you have zero temporary willpower, you reach a state called Ego Depletion. While you are afflicted with Ego Deplection, you are easier to hypnotise, brainwash, and flimflam.
+When you have zero temporary willpower, you reach a state called Ego Depletion. While you are afflicted with Ego Depletion, you are easier to hypnotise, brainwash, and flimflam.
 
 
 ###Magical Foci
@@ -84,13 +84,13 @@ When you have zero temporary willpower, you reach a state called Ego Depletion. 
 Foci differ in 'intended scale'. There are six known 'intended scales':
 
 - Personal. Personal scale Foci do not take an action to use. You can not add target or area factors to effects using personal scale Foci.
-- Skirmish scale. Skirmish scale Foci take single round actions to use. Targets must be size 10 or smaller. Target factors 
-- Ship/Platoon scale
-- Industrial
-- World spanning
-- Cosmic
+- Skirmish scale. Skirmish scale Foci take single round actions to use. Targets must be size 10 or smaller. 
+- Ship scale. Ship scale Foci take extended actions to use. Targets must be size 100 or smaller. A single platoon can be targetted as a single target.
+- Industrial. Industrial scale Foci take weeks to use.
+- World spanning. World spanning scale Foci take years to use.
+- Cosmic. Cosmic scale Foci take entire Ages to use. No target factors - effects automatically target the Cosmos.
 
-Foci can be used to create effects in other scales. You take a dice penalty of 8^x, where x is the number of scales you want to move. So, using auto-hypnosis (a Personal Scale Focus) on a Cosmic Scale would levy an 8^5 = 32768 dice penalty to your draw pool.
+Foci can be used to create effects in other scales, using the target factor, duration, size and action rules for that scale. You take a dice penalty of 8^x, where x is the number of scales you want to move. So, using auto-hypnosis (a Personal Scale Focus) on a Cosmic Scale would levy an 8^5 = 32768 dice penalty to your draw pool.
 
 Autohypnosis
 
