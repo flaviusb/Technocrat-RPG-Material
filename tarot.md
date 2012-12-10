@@ -7,6 +7,10 @@ As every 'mage' like game system needs its own system of Tarot, here I present m
 
 Cards run from Ace to ten, then the court cards are Nemesis, Key, Gate, and Throne.
 
+###Patterns
+
+The Ace and the Nemesis are 'the same', though the Ace is the start and the Nemesis is the inversion, turning away, rejection or antimony of the meaning of the suit.
+
 ##Eyes
 - The Sun
 - Outsiders
