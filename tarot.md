@@ -2,15 +2,71 @@ As every 'mage' like game system needs its own system of Tarot, here I present m
 
 #Major Arcana
 
+Frag
+
+Torment
+
+The Neverborn/Malfeans
+
+The Mouth of the Void?
+
+The Void
+
+The Outer Darkness
+
+The Incarna
+
+The Gates of Ivory and Horn?
+
+Hell
+
+Heaven
+
+The Shadow
+
+Ascended Masters
+
+The Akashic Record?
+
+Earth
+
+Air
+
+Fire
+
+Water
+
+Darkness
+
+Light
+
+Judgement/Anthelios
+
+The Enemy
+
+The Demiurge
+
 27 Major Arcana, with 7 being also Keys of each Suit.
 
-#5 suits
+#7 suits
 
 Cards run from Ace to ten, then the court cards are Nemesis/Antimony and Throne.
 
 ###Patterns
 
 The Ace and the Nemesis are 'the same', though the Ace is the start and the Nemesis is the inversion, turning away, rejection or antimony of the meaning of the suit.
+
+There is one card in each suit related to hand-to-hand martial arts, and another related to sword, dagger or similar arts.
+
+Each Suit corresponds to one major grouping of Occult Traditions. The Seven Traditions are Hermeticism (Torches), Arab/Christian/Druze/Zoroastrian Esotericism, Buddhist/Tibetan/Meditative (Roses), Kaballism/Early Medieval Magic, Alchemy?, Voodoo/Obeah, The Demiurge/MKUltra/The Illuminati/Freemasonry/Secret Societies/Lodges (Eyes).
+
+The Zodiac/The Planets
+
+The Olympian Gods/Scenes from relevant myths
+
+
+
+
 
 ##Eyes
 - The Sun
@@ -29,16 +85,14 @@ The Nemesis of Eyes - A dark haired, dark skinned fisherman in anachronistic new
 - The Sun
 - Language: Greek
 
-The Ten of Torches - A dark skinned, dark haired woman with fingernails of flame.
-
 The Nemesis of Torches - A broken, bloody cross on a hilltop, an eclipse, bloody footprints leading to 
 
 The Throne of Torches - An empty white marble throne in paradise.
 
-##Razors/Blades
+##Razors/Blades/Scourges/Torments
 - Thorns/Barbed Wire
 
-The Five of Razors - A Japanese woman in a business suit with a skirt surrounded by four men wearing business suits. The men all have katanas raised in the initial position for overhead strikes. The woman has drawn her katana and bisected all four men. Her face is turned away. The men's faces are indistinct.
+The Five of Razors - Strike from Emptiness - A Japanese woman in a business suit with a skirt surrounded by four men wearing business suits. The men all have katanas raised in the initial position for overhead strikes. The woman has drawn her katana and bisected all four men. Her face is turned away. The men's faces are indistinct.
 
 ##Roses
 - Thorns/Barbed Wire
