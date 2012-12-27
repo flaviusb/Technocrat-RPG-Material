@@ -1,6 +1,6 @@
-As every 'mage' like game system needs its own system of Tarot, here I present my personal system.
+Here I present my personal system of Tarot. One hundred and eleven cards, with seven suits, ten pip cards and two court cards per suit, and twenty seven trumps, seven of which can alternatively be counted as court cards.
 
-#Major Arcana
+#Trumps
 
 Frag
 
@@ -60,11 +60,11 @@ The Principle of Eve - The Universal Unconscious
 
 Jungian Archetypes
 
-27 Major Arcana, with 7 being also Keys of each Suit.
+27 Trumps, with 7 being also Keys of each Suit.
 
 #7 suits
 
-Pip cards run from Ace to ten, then the court cards are Nemesis/Antimony and Throne.
+Pip cards run from Ace to ten, then the court cards are Nemesis/Antimony and Throne. The Keys can also be counted as Court cards or as Trumps, depending on the reading.
 
 ###Patterns
 
