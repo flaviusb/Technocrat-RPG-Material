@@ -6,6 +6,8 @@ Frag
 
 Torment
 
+Bedlam
+
 The Neverborn/Malfeans
 
 The Mouth of the Void?
@@ -46,25 +48,61 @@ The Enemy
 
 The Demiurge
 
+Malevolence
+
+Blindness
+
+The Architect
+
+The Principle of Adam - The Human Superconsciousness
+
+The Principle of Eve - The Universal Unconscious
+
+Jungian Archetypes
+
 27 Major Arcana, with 7 being also Keys of each Suit.
 
 #7 suits
 
-Cards run from Ace to ten, then the court cards are Nemesis/Antimony and Throne.
+Pip cards run from Ace to ten, then the court cards are Nemesis/Antimony and Throne.
 
 ###Patterns
 
+####Longitudinal Patterns
+
+12 or 13 cards long, these are patterns which dominate a Suit.
+
+
 The Ace and the Nemesis are 'the same', though the Ace is the start and the Nemesis is the inversion, turning away, rejection or antimony of the meaning of the suit.
+
+
+Each Suit corresponds to one major grouping of Occult Traditions. The Seven Traditions are Hermeticism (Waves?), Arab/Christian/Druze/Zoroastrian Esotericism (Torches), Buddhist/Tibetan/Meditative (Roses), Kaballism/Early Medieval Magic (Gems?), Alchemy? (Crescents?), Voodoo/Obeah (Torments?), The Demiurge/MKUltra/The Illuminati/Freemasonry/Secret Societies/Lodges (Eyes).
+
+The Zodiac
+
+The Olympian Gods/Scenes from relevant myths
+Aristia, Hubris, Arete, Agape
+Images: Statues of ugly creatures with Gods inside
+
+####Transverse Patterns
+
+7 cards long, these are patterns formed across suits.
+
 
 There is one card in each suit related to hand-to-hand martial arts, and another related to sword, dagger or similar arts.
 
-Each Suit corresponds to one major grouping of Occult Traditions. The Seven Traditions are Hermeticism (Torches), Arab/Christian/Druze/Zoroastrian Esotericism, Buddhist/Tibetan/Meditative (Roses), Kaballism/Early Medieval Magic, Alchemy?, Voodoo/Obeah, The Demiurge/MKUltra/The Illuminati/Freemasonry/Secret Societies/Lodges (Eyes).
+The alchemical planets: The Sun rules Gold; The Moon, Silver; Mercury, Quicksilver/Mercury; Venus, Copper; Mars, Iron; Jupiter, Tin; Saturn, Lead
 
-The Zodiac/The Planets
+Folk magic.
 
-The Olympian Gods/Scenes from relevant myths
+The 'powers of concentration' aka psychic practices.
 
 
+
+#Symbols to be assigned
+
+Pouring liquid from one vessel to another - metempsychosis
+Psychopomp
 
 
 
