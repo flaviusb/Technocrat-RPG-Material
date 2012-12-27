@@ -70,7 +70,7 @@ Pip cards run from Ace to ten, then the court cards are Nemesis/Antimony and Thr
 
 ####Longitudinal Patterns
 
-12 or 13 cards long, these are patterns which dominate a Suit.
+13 cards long, these are patterns which dominate a Suit. The Suit itself is the most obvious longitudinal pattern.
 
 
 The Ace and the Nemesis are 'the same', though the Ace is the start and the Nemesis is the inversion, turning away, rejection or antimony of the meaning of the suit.
@@ -86,7 +86,7 @@ Images: Statues of ugly creatures with Gods inside
 
 ####Transverse Patterns
 
-7 cards long, these are patterns formed across suits.
+7 cards long, these are patterns formed across suits. The value of each card (ie Ace, 3, Nemesis) is the most obvious transverse pattern.
 
 
 There is one card in each suit related to hand-to-hand martial arts, and another related to sword, dagger or similar arts.
