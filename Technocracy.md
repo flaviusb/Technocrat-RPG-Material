@@ -9,57 +9,6 @@ The Technocracy
 
 2002: The Storm of Souls cuts off access to the Deep Universe.
 
-###Factions
-
-Scientists
-
-Researchers:
-
-IT: Computer Science
-
-Security: 
-
-
-Engineers
-
-Researchers:
-
-IT: DevOps
-
-Security: Marines
-
-
-Administrators/Managers/Government
-
-Researchers:
-
-IT:
-
-Security: Spooks/The MiB
-
-
-
-
-Accountants/Mobsters
-
-Researchers:
-
-IT: 
-
-Security:
-
-
-
-Explorers
-
-Researchers:
-
-Security: 
-
-IT:
-
----
-
 ###Stats
 
 You have 9 stats, divided into a three by three grid.
