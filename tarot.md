@@ -50,15 +50,11 @@ The Demiurge
 
 Malevolence
 
-Blindness
-
 The Architect
 
 The Principle of Adam - The Human Superconsciousness
 
 The Principle of Eve - The Universal Unconscious
-
-Jungian Archetypes
 
 27 Trumps, with 7 being also Keys of each Suit.
 
