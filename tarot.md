@@ -121,29 +121,43 @@ The Nemesis of Eyes - A dark haired, dark skinned fisherman in anachronistic new
 
 ##Torches
 - The Sun
+- Comets
+- Trees
 - Language: Greek
 
 The Nemesis of Torches - A broken, bloody cross on a hilltop, an eclipse, bloody footprints leading to 
 
 The Throne of Torches - An empty white marble throne in paradise.
 
-##Razors/Blades/Scourges/Torments
-- Thorns/Barbed Wire
+##Torments
+- Barbed Wire
+- Straight blades - straight razors, uncurved swords
+- Whips/Scourges
 
-The Five of Razors - Strike from Emptiness - A Japanese woman in a business suit with a skirt surrounded by four men wearing business suits. The men all have katanas raised in the initial position for overhead strikes. The woman has drawn her katana and bisected all four men. Her face is turned away. The men's faces are indistinct.
+The Three of Torments - Three longswords, hilt first in the ground, before a man in red. He grasps the middle sword by the blade. Blood runs down the blade.
+
+The Five of Torments - Strike from Emptiness - A Japanese woman in a business suit with a skirt surrounded by four men wearing business suits. The men all have katanas raised in the initial position for overhead strikes. The woman has drawn her katana and bisected all four men. Her face is turned away. The men's faces are indistinct.
 
 ##Roses
-- Thorns/Barbed Wire
-- The Moon
+- Thorns
+- The Full Moon
 
 The Throne of Roses - Siddhartha sitting in full lotus upon a bed of roses. The moon is full in the sky above him. His eyes are closed.
 
 ##Crescents
-- The Moon
+- The Crescent Moon
 - Mirrors
 
 The Three of Crescents - (Like the Two of Swords) A woman with closed eyes, two scimitars crossed protectively across her chest, wearing a white robe. The crescent moon hangs in the sky above her head.
 
 ##Gems
+- The Stars
+- Chisels, magnifying glasses
 
 ##Waves
+- Wine
+- The Sea
+- The Dark Moon
+- Cups
+- Ships
+- Volcanoes
