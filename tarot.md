@@ -2,9 +2,10 @@ Here I present my personal system of Tarot. One hundred and eleven cards, with s
 
 #Trumps
 
-Frag
+Frag - The Key of Crescents
+- A man between two mirrors, an old man reflected in the mirror on his left and a child on his right, being stabbed through with two lances, which pierce the opposite mirrors, taking the youth in the leg and the old man in the face. The mirrors are cracked. There are six broken reflections of the moon in each mirror, and one in the sky. The moon is a crescent.
 
-Torment
+Torment - The Key of Torments
 
 Bedlam
 
@@ -14,7 +15,7 @@ The Mouth of the Void?
 
 The Void
 
-The Outer Darkness
+The Outer Darkness - The Key of Eyes
 
 The Incarna
 
@@ -103,7 +104,7 @@ Psychopomp
 
 
 ##Eyes
-- The Sun
+- Shadows and light
 - Outsiders
 - Conspiracy
 - Pyramids
@@ -111,7 +112,7 @@ Psychopomp
 
 The Ace of Eyes - An androgynous, pretty figure with blonde hair, with one eye covered by their hair, in the middle of a dance floor. Shadowy figures dance, but their faces are all turned away. The figure has bracers and pants made of belts, and a t-shirt with the word 'Obey' written on it. The belts alternate yellow and black, and the figure is wearing mickey mouse ears. Gold coins fall from the figure's left hand, and a flaming coal is grasped in the character's burnt right hand. The character's face looks vacant. The smoke from the coal drifts out onto the dance floor.
 
-The Nine of Eyes - Nine figures sit in a board room, around a board room table. The all wear dark sunglasses and expensive suits. They all wear a single gold ring, with an eye, on their 
+The Nine of Eyes - Nine figures sit in a board room, around a board room table. The all wear dark sunglasses and expensive black suits. They all wear a single gold ring, with an eye, on their wedding finger. 
 
 The Nemesis of Eyes - A dark haired, dark skinned fisherman in anachronistic new testament desert robes, with only one hand (the left), as his right arm finishes in a burnt, blackened stump. He is wearing a blindfold with blood coming out from underneath it, and clutching his side as blood wets his clothes, in a desert tiled in black and yellow squares, being lifted by a giant burnt right hand to be placed on a square.
 
