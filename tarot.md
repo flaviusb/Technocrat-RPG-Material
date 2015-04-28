@@ -159,3 +159,6 @@ The Three of Crescents - (Like the Two of Swords) A woman with closed eyes, two 
 - Cups
 - Ships
 - Volcanoes
+- Waves of troops
+- Radio
+- The classical winds/trade winds/siroccos/whirlwinds
