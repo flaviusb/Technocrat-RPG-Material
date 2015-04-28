@@ -6,6 +6,7 @@ Frag - The Key of Crescents
 - A man between two mirrors, an old man reflected in the mirror on his left and a child on his right, being stabbed through with two lances, which pierce the opposite mirrors, taking the youth in the leg and the old man in the face. The mirrors are cracked. There are six broken reflections of the moon in each mirror, and one in the sky. The moon is a crescent.
 
 Torment - The Key of Torments
+- Thirteen people around a fire, each with an arm extended over the fire, each hand holding the arm to the left over the fire?
 
 Bedlam
 
